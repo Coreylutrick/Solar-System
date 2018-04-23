@@ -1,4 +1,4 @@
-# 
+# Solar System
 
 ## Description:
 This project display multiple uses of eventlisteners. It uses click, keypress, and mouse enter and mouse leave.
